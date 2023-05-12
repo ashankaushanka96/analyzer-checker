@@ -1,0 +1,90 @@
+[PKSE1]
+ip = 175.107.198.118
+name = PKSE Analyzer Primary
+status = 2
+
+[PKSE2]
+ip = 175.107.198.119
+name = PKSE Analyzer Secondary
+status = 2
+
+[DGCX]
+ip = 172.18.30.94
+name = DGCX Primary
+status = 2
+
+[MSM]
+ip = 172.18.30.92
+name = MSM Analyzer Primary
+status = 2
+
+[ADSM1]
+ip = 172.19.30.11
+name = ADSM Analyzer Primary
+status = 2
+
+[ADSM2]
+ip = 172.18.30.91
+name = ADSM Analyzer Secondary
+status = 2
+
+[DFM1]
+ip = 172.19.30.10
+name = DFM Analyzer Primary
+status = 2
+
+[DFM2]
+ip = 172.18.30.93
+name = DFM Analyzer Secondary
+status = 2
+
+[NSE1]
+ip = 172.20.153.10
+name = NSE Analyzer Primary
+status = 2
+
+[NSE2]
+ip = 172.17.240.225
+name = NSE Analyzer Secondary
+status = 2
+
+[ISEFO1]
+ip = 172.17.240.224
+name = ISEFO Analyzer Primary
+status = 2
+
+[ISEFO2]
+ip = 172.17.240.225
+name = ISEFO Analyzer Secondary
+status = 2
+
+[ISEFO3]
+ip = 172.17.240.225
+name = ISEFO Analyser Tertiary
+status = 2
+
+[DSM1]
+ip = 172.16.95.1
+name = DSM Analyzer Primary
+status = 2
+
+[DSM2]
+ip = 172.16.95.3
+name = DSM Analyzer Secondary
+status = 2
+
+[CSE1]
+ip = 172.20.216.25
+name = CSE Analyzer Primary
+status = 2
+
+[CSE2]
+ip = 172.20.216.25
+name = CSE Analyzer Secondary
+status = 2
+
+[CSE3]
+ip = 172.20.216.25
+name = CSE Analyzer Teritory
+status = 2
+

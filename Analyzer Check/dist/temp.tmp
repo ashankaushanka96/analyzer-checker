@@ -1,0 +1,36 @@
+[TESTAPP1]
+ip = 111.111.111.111
+name = Test App 1
+startime = 00:00:00
+endtime = 23:45:59
+runninngdates = [0,1,2,3,4,5,6]
+holiday = 0
+status = 5
+
+[TESTAPP2]
+ip = 111.111.111.112
+name = Test App 2
+startime = 00:00:00
+endtime = 23:45:59
+runninngdates = [0,1,2,3,4,5,6]
+holiday = 0
+status = 5
+
+[TESTAPP3]
+ip = 111.111.111.113
+name = Test App 2
+startime = 00:00:00
+endtime = 23:45:59
+runninngdates = [0,1,2,3,4,5,6]
+holiday = 0
+status = 5
+
+[TESTAPP4]
+ip = 111.111.111.114
+name = Test App 3
+startime = 00:00:00
+endtime = 23:45:59
+runninngdates = [0,1,2,3,4,5,6]
+holiday = 0
+status = 5
+
